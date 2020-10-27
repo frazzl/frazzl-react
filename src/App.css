@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: #282828;
+  color: #F5FFFA;
+}
+
+.App img {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}

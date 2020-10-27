@@ -1,0 +1,79 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #282828;
+  color: #F5FFFA;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav {
+  margin-top: 10px;
+  margin-bottom: 35px;
+  padding: 10px 130px 5px;
+  overflow: hidden;
+  border-bottom: #F5FFFA solid 1px;
+}
+
+.nav #logo {
+  float: left;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.nav > a {
+  float: right;
+  text-decoration: none;
+  color: #F5FFFA;
+  padding: 10px 10px;
+  margin: 0 30px;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.nav > a:hover{
+  color: #C1FCDE;
+  border-top: #C1FCDE dashed 0.5px;
+}
+
+.paragraph {
+  clear: both;
+}
+
+textarea{
+  width: 600px;
+  height: 150px;
+  margin: 40px;
+  padding: 10px;
+  background-color: #F5FFFA;
+  border-color: lightgray;
+  box-shadow:
+    /* The top layer shadow */
+        0 1px 1px rgba(0,0,0,0.15),
+            /* The second layer */
+        0 10px 0 -5px #F5FFFA,
+            /* The second layer shadow */
+        0 10px 1px -4px rgba(0,0,0,0.15),
+            /* The third layer */
+        0 20px 0 -10px #F5FFFA,
+            /* The third layer shadow */
+        0 20px 1px -9px rgba(0,0,0,0.15);
+}
+
+.mainText button {
+  background-color: #F5FFFA;
+  color: #282828;
+  border-radius: 5px;
+}
+
+
