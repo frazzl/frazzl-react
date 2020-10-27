@@ -16,22 +16,28 @@
 
 // export default Timer
 
+import React from "react"
 import { CountdownCircleTimer } from 'react-countdown-circle-timer'
- 
-const UrgeWithPleasureComponent = () => (
-    <div className="timer">
-  <CountdownCircleTimer
-    isPlaying
-    duration={20}
-    colors={[
-      ['#41B3A3', 0.33],
-      ['#E8A87C', 0.33],
-      ['#C38D9E', 0.33],
-    ]}
-  >
-    {({ remainingTime }) => remainingTime}
-  </CountdownCircleTimer>
-  </div>
-)
 
-export default UrgeWithPleasureComponent
+class Timer extends React.Component {
+    render() {
+        return (
+            <div className="timer">
+                <CountdownCircleTimer
+                    isPlaying= {this.props.start}
+                    duration={20}
+                    colors={[
+                    ['#41B3A3', 0.33],
+                    ['#E8A87C', 0.33],
+                    ['#C38D9E', 0.33],
+                    ['#F5FFFA',0],
+                    ]}
+                >
+                    {({ remainingTime }) => remainingTime}
+                </CountdownCircleTimer>
+            </div>
+        )
+    }
+}
+ 
+export default Timer
