@@ -70,10 +70,20 @@ textarea{
         0 20px 1px -9px rgba(0,0,0,0.15);
 }
 
+textarea:focus, button:focus{
+  outline:none;
+}
+
 .mainText button {
   background-color: #F5FFFA;
   color: #282828;
   border-radius: 5px;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
 }
 
 
