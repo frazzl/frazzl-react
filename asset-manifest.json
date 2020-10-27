@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frazzl-react/static/css/main.d8b94843.chunk.css",
-    "main.js": "/frazzl-react/static/js/main.530708b6.chunk.js",
-    "main.js.map": "/frazzl-react/static/js/main.530708b6.chunk.js.map",
-    "runtime-main.js": "/frazzl-react/static/js/runtime-main.ddd5d6c2.js",
-    "runtime-main.js.map": "/frazzl-react/static/js/runtime-main.ddd5d6c2.js.map",
-    "static/js/2.c0a0a7e2.chunk.js": "/frazzl-react/static/js/2.c0a0a7e2.chunk.js",
-    "static/js/2.c0a0a7e2.chunk.js.map": "/frazzl-react/static/js/2.c0a0a7e2.chunk.js.map",
-    "static/js/3.c7b4a981.chunk.js": "/frazzl-react/static/js/3.c7b4a981.chunk.js",
-    "static/js/3.c7b4a981.chunk.js.map": "/frazzl-react/static/js/3.c7b4a981.chunk.js.map",
+    "main.css": "/frazzl-react/static/css/main.5101084c.chunk.css",
+    "main.js": "/frazzl-react/static/js/main.b948c7c0.chunk.js",
+    "main.js.map": "/frazzl-react/static/js/main.b948c7c0.chunk.js.map",
+    "runtime-main.js": "/frazzl-react/static/js/runtime-main.780efa74.js",
+    "runtime-main.js.map": "/frazzl-react/static/js/runtime-main.780efa74.js.map",
+    "static/js/2.19f2013d.chunk.js": "/frazzl-react/static/js/2.19f2013d.chunk.js",
+    "static/js/2.19f2013d.chunk.js.map": "/frazzl-react/static/js/2.19f2013d.chunk.js.map",
+    "static/js/3.f99322e8.chunk.js": "/frazzl-react/static/js/3.f99322e8.chunk.js",
+    "static/js/3.f99322e8.chunk.js.map": "/frazzl-react/static/js/3.f99322e8.chunk.js.map",
     "index.html": "/frazzl-react/index.html",
-    "static/css/main.d8b94843.chunk.css.map": "/frazzl-react/static/css/main.d8b94843.chunk.css.map",
-    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/frazzl-react/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/css/main.5101084c.chunk.css.map": "/frazzl-react/static/css/main.5101084c.chunk.css.map",
+    "static/js/2.19f2013d.chunk.js.LICENSE.txt": "/frazzl-react/static/js/2.19f2013d.chunk.js.LICENSE.txt",
     "static/media/home.f2f1ad5d.png": "/frazzl-react/static/media/home.f2f1ad5d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddd5d6c2.js",
-    "static/js/2.c0a0a7e2.chunk.js",
-    "static/css/main.d8b94843.chunk.css",
-    "static/js/main.530708b6.chunk.js"
+    "static/js/runtime-main.780efa74.js",
+    "static/js/2.19f2013d.chunk.js",
+    "static/css/main.5101084c.chunk.css",
+    "static/js/main.b948c7c0.chunk.js"
   ]
 }
